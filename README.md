@@ -1,5 +1,13 @@
-# Webpack5
+# Домашнее задание к лекции «Рабочее окружение»
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
+[![Build status](https://ci.appveyor.com/api/projects/status/l7qit6hybk4xmmw4?svg=true)](https://ci.appveyor.com/project/yuriyvyatkin/ahj-hw-1-continuous-deployment)
 
-[Migration Guide](https://webpack.js.org/migrate/5/)
+## Continuous Deployment
+
+#### Описание
+
+Воспользуйтесь пошаговой инструкцией к лекции, чтобы развернуть тестирование, сборку и deployment на AppVeyor и GitHub Pages.
+
+В качестве шаблона для развёртывания используйте [проект с лекции](https://github.com/netology-code/ahj-code/tree/master/env).
+
+Не забудьте поставить бейджик со статусом в `README.md`.
